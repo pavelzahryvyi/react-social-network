@@ -2,6 +2,7 @@ const ADD_MESSAGE = 'ADD-MESSAGE';
 const UPDATE_NEW_MESSAGE = 'UPDATE-NEW-MESSAGE';
 
 let initialState = {
+
     dialogData: [
         {id: 1, name: 'Pavel'},
         {id: 2, name: 'Andrey'},
